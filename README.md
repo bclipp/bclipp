@@ -18,14 +18,6 @@ Engineer
 ### Exercises / Problems
 * [Dining Philosophers Problem](https://github.com/bclipp/dining_philosophers)
     
-    
-### Under Construction  
-* [Relational Data Modeling (PostgreSQL & CockroachDB) (Python, Scala and Go)](https://github.com/bclipp/relational_data_modeling)
-* [Apache Spark ETL (Python, Scala and Go)](https://github.com/bclipp/spark_etl)  
-* [Data Warehousing with Snowflake, Spark,CockroachDB (Python, Scala and Go)](https://github.com/bclipp/datawarehouse)  
-* [NoSQL Data Modeling w/ Cassandra (Python, Scala and Go)](https://github.com/bclipp/cassandra_modeling)
-* [NoSQL Data Modeling (Elasticsearch, MongoDB) (Python, Scala and Go)](https://github.com/bclipp/nosql_data_modeling)
-* [REST API (Python, Scala and Go),PostGreSQL & Redis/BoltDB ](https://github.com/bclipp/rest_grocery)  
 
 ### Publication:
 * Packt Publishing:     
