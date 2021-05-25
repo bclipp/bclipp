@@ -1,4 +1,4 @@
 Brian Lipp   
 Engineer
 
-To be continued
+(Resume)[https://github.com/bclipp/resume/blob/master/README.md]
